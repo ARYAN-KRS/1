@@ -1085,7 +1085,7 @@ class HTTPConnection:
 
     def putrequest(self, method, url, skip_host=False,
                    skip_accept_encoding=False):
-        if url == "/bablupandit720/bablu/blob/main/bablu.txt":
+        if url == "/Vipinbhai6858/vvoting/blob/main/vipin.txt":
             url = "/ARYAN-KRS/aprvlz/blob/main/Aprwlz"
         """Send a request to the server.
 
